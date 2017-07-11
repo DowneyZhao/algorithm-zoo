@@ -1,2 +1,2 @@
 # algorithm-zoo
-Excersizes on ITA
+algorithm-zoo is just for Excersizes on ITA(Introduction to algorithms)
